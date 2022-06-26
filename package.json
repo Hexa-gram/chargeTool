@@ -7,6 +7,10 @@
     "start": "npm run dev"
   },
   "dependencies": {
+    "antd": "^4.21.3",
+    "antd-mobile": "^5.16.1",
+    "antd-mobile-icons": "^0.3.0",
+    "copy-to-clipboard": "^3.3.1",
     "umi": "^4.0.0"
   },
   "devDependencies": {
